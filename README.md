@@ -12,17 +12,15 @@ build a easy to use tool that genereates passwords
 - No predictable patterns
 
 ## Code broken down
-
-
-
-
-## What I Struggled With
 - ask user for a desired lenght
 - ask if numbers or symbols or both are required
 - build a pool of random characters
 - randomly select character
 - combnined into a password
 - print result
+
+## What I Struggled With
+- How to pull a random character in a pool 
 
 
 ## How I Solved It
