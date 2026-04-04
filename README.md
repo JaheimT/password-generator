@@ -23,11 +23,14 @@ build a easy to use tool that genereates passwords
 - How to pull a random character from a pool
 - adding numbers
 - adding upper or lower case characters
+- the programe would add only lowercase even if uppercase was selected 
 
 
 ## How I Solved It
 - used learned how to use the random import correctly
 - used Sting iport then the respective methods such as string.ascii_lowercase , string.digits , string.ascii_uppercase
+
+- i relised that i had repeted logic that would make the character pool be dominated by lowecase characters
 
 ## What I Learned 
 
