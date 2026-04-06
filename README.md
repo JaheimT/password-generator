@@ -29,10 +29,10 @@ build a easy to use tool that genereates passwords
 ## How I Solved It
 - used learned how to use the random import correctly
 - used Sting iport then the respective methods such as string.ascii_lowercase , string.digits , string.ascii_uppercase
-
 - i relised that i had repeted logic that would make the character pool be dominated by lowecase characters
 
 ## What I Learned 
-
+- how to properly use the string method
+- better understading of operators
 
 ## Future Improvements
