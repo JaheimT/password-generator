@@ -23,7 +23,9 @@ build a easy to use tool that genereates passwords
 - How to pull a random character from a pool
 - adding numbers
 - adding upper or lower case characters
-- the programe would add only lowercase even if uppercase was selected 
+- the programe would add only lowercase even if uppercase was selected
+- If a user selected an option would only be added to the character pool and not garenteed to be in the password
+- forced characters would be at the start making password more predictable
 
 
 ## How I Solved It
